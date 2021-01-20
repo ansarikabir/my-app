@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name":"Kabir Ansari",
+    "occupation":"Aspiring Software Developer",
+    "description":"I am a highly motivated developer with an interest in adapting to and further learning new and existing technologies to bring a unique skillset to the people I work with",
+    "image":"",
+    "bio":"I am a fresh graduate who graduated with Honours majoring in Computer Science, I have always been passionate about this field. I love learning new technologies while making sure to maintain a high level of proficiency in my primary ones. The current technologies and programming languages I have been using are Java, Spring, JavaScript, React, Node.js, HTML5, CSS, SQL, Git. Some of the ones I have used and maintain an interest in are C++, C, Python, PHP, Composer and many others. This website itself was created using React and NodeJS with data being fed through a JSON file. My work experience as a Teaching Assistant has also allowed me to stay on top of my soft skills.",
+    "contactmessage":"I am currently open to all opportunities and if you would like to get in contact with me, please do not hesitate to send me an email. Cheers!",
+    "email": "ansarikabir117@gmail.com",
+    "phone": "226-260-4059",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/ansarikabir",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"As described above, my currently used technologies mostly consist of Java, JavaScript, React, Spring, HTML, CSS, SQL",
+    "education":[
+      {
+        "school":"University of Windsor",
+        "degree":"Bachelor of Computer Science - Honours",
+        "graduated":"December 2020",
+        "description":"Built my fundamentals of data structures and algorithms in my first two years. The next two years were learning industry tools and technologies like Agile software development, React, Spring, etc."
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"University of Windsor",
+        "title":"Project: Student Information System",
+        "years":"09/2019 - 12/2019",
+        "description":"Developed a project that would show a live visualization simulating the effects of segregation throughout history. Implemented a machine learning algorithm based on Schelling’s Model of Segregation in Python. Presented a live walkthrough of the project to students explaining the concepts used in the project"
+      }
+      ,
+      {
+        "company":"University of Windsor",
+        "title":"Project: AI Segregation",
+        "years":"09/2016 - 12/2020",
+        "description":"Developed a student information system using JavaScript, PHP, MySQL, Bootstrap. Allow students access to updated academic and financial matters (such as a transcript or balance statement). Implemented support for multiple universities through a functioning data warehouse. Implemented an ETL tool to store Data properly into the data warehouse. Added tracking for historical academic data through the data warehouse that would allow for complex queries"
+      }
+      ,
+      {
+        "company":"University of Windsor",
+        "title":"Videogame E-Commerce Platform",
+        "years":"09/2019 - 12/2019",
+        "description":"Developed a videogame platform using React, Node.js, Express, SQLite. Customers would be able to sign up and have access to a wish list feature. Implemented a shopping cart where products would be added, and customers would proceed to checkout. Managers would have access to add, delete or modify new or existing products. Supported advertisements that were displayed randomly. Developed using Agile methodologies."
+      }
+      ,
+      {
+        "company":"University of Windsor",
+        "title":"Teaching Assistant",
+        "years":"05/2020 - 08/2020",
+        "description":"Helped students conceptualize various data structures by explaining it to them thoroughly and assisted them in implementing the data structures in a programming language of their choice. Also responsible for assigning students weekly coding challenges pertaining to the data structure that was covered during the time."
+      },
+      {
+        "company":"University of Windsor",
+        "title":"Teaching Assistant",
+        "years":"09/2019 - 04/2020",
+        "description":"Gave students constructive feedback on how to improve design aspects of their website and assisted them in implementing their website by helping them with HTML, CSS, SQL, and JavaScript."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"55%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      },
+      {
+        "name":"Node.js",
+        "level":"90%"
+      },
+      {
+        "name":"Spring",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
