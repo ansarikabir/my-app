@@ -2,9 +2,9 @@
   "main": {
     "name":"Kabir Ansari",
     "occupation":"Software Developer",
-    "description":"I am a highly motivated developer with an interest in adapting to and further learning new and existing technologies to bring a unique skillset to the people I work with",
+    "description":"I am a highly motivated developer with an interest in learning new and existing technologies to bring a unique skillset to my work. I love to tackle new and exciting challenges that allow me to grow as a developer",
     "image":"",
-    "bio":"I am a fresh graduate who graduated with Honours majoring in Computer Science, I have always been passionate about this field. I love learning new technologies while making sure to maintain a high level of proficiency in my primary ones. The current technologies and programming languages I have been using are Java, Spring, JavaScript, React, Node.js, HTML5, CSS, SQL, Git. Some of the ones I have used and maintain an interest in are C++, C, Python, PHP, Composer and many others. This website itself was created using React and NodeJS with data being fed through a JSON file. My work experience as a Teaching Assistant has also allowed me to stay on top of my soft skills.",
+    "bio":"Recently graduated with Honours majoring in Computer Science, I have always been passionate about this field. I love learning new technologies while making sure to maintain a high level of proficiency in my primary ones. The current technologies and programming languages I have been using are Java, Spring, JavaScript, React, Node.js, HTML5, CSS, SQL, Git. Some of the ones I have used and maintain an interest in are C++, C, Python, PHP, Composer and many others. This website itself was created using React and NodeJS. My work experience as a Junior Java Developer has allowed to pick up critical industry related experience and a working proficiency in some of the important tools and technolgies as well.",
     "contactmessage":"I am currently open to all opportunities and if you would like to get in contact with me, please do not hesitate to send me an email. Cheers!",
     "email": "ansarikabir117@gmail.com",
     "phone": "226-260-4059",
@@ -43,6 +43,14 @@
       
     ],
     "work":[
+       {
+        "company":"JKA Software Solutions",
+        "title":"Junior Software Developer",
+        "years":"01/2020 - present",
+        "description":"Developed a project that would show a live visualization simulating the effects of segregation throughout history. Implemented a machine learning algorithm based on Schelling’s Model of Segregation in Python. Presented a live walkthrough of the project to students explaining the concepts used in the project"
+      },
+      
+      
       {
         "company":"University of Windsor",
         "title":"Project: Student Information System",
