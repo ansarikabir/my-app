@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Kabir Ansari",
-    "occupation":"Aspiring Software Developer",
+    "occupation":"Software Developer",
     "description":"I am a highly motivated developer with an interest in adapting to and further learning new and existing technologies to bring a unique skillset to the people I work with",
     "image":"",
     "bio":"I am a fresh graduate who graduated with Honours majoring in Computer Science, I have always been passionate about this field. I love learning new technologies while making sure to maintain a high level of proficiency in my primary ones. The current technologies and programming languages I have been using are Java, Spring, JavaScript, React, Node.js, HTML5, CSS, SQL, Git. Some of the ones I have used and maintain an interest in are C++, C, Python, PHP, Composer and many others. This website itself was created using React and NodeJS with data being fed through a JSON file. My work experience as a Teaching Assistant has also allowed me to stay on top of my soft skills.",
@@ -80,23 +80,23 @@
     "skills":[
       {
         "name":"Java",
-        "level":"60%"
+        "level":"65%"
       },
       {
         "name":"JavaScript",
-        "level":"55%"
+        "level":"60%"
       },
       {
         "name":"React",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"Node.js",
-        "level":"90%"
+        "level":"60%"
       },
       {
         "name":"Spring",
-        "level":"80%"
+        "level":"65%"
       }
     ]
   },
