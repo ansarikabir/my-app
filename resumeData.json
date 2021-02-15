@@ -4,7 +4,7 @@
     "occupation":"Software Developer",
     "description":"I am a highly motivated developer with an interest in learning new and existing technologies to bring a unique skillset to my work. I love to tackle new and exciting challenges that allow me to grow as a developer",
     "image":"",
-    "bio":"Recently graduated with Honours majoring in Computer Science, I have always been passionate about this field. I love learning new technologies while making sure to maintain a high level of proficiency in my primary ones. The current technologies and programming languages I have been using are Java, Spring, JavaScript, React, Node.js, HTML5, CSS, SQL, Git. Some of the ones I have used and maintain an interest in are C++, C, Python, PHP, Composer and many others. This website itself was created using React and NodeJS. My work experience as a Junior Java Developer has allowed to pick up critical industry related experience and a working proficiency in some of the important tools and technolgies as well.",
+    "bio":"Recently graduated with Honours majoring in Computer Science and currently working part-time as a Java Developer. I have always been passionate about this field. I love learning new technologies while making sure to maintain a high level of proficiency in my primary ones. The current technologies and programming languages I have been using are Java, Spring, JavaScript, React, Node.js, HTML5, CSS, SQL, Git. Some of the ones I have used and maintain an interest in are C++, C, Python, PHP, Composer and many others. This website itself was created using React and NodeJS. My work experience as a Junior Java Developer has allowed to pick up critical industry related experience and a working proficiency in some of the important tools and technolgies as well.",
     "contactmessage":"I am currently open to all opportunities and if you would like to get in contact with me, please do not hesitate to send me an email. Cheers!",
     "email": "ansarikabir117@gmail.com",
     "phone": "226-260-4059",
@@ -46,8 +46,9 @@
        {
         "company":"JKA Software Solutions",
         "title":"Junior Software Developer",
-        "years":"01/2020 - present",
-        "description":"Developed a project that would show a live visualization simulating the effects of segregation throughout history. Implemented a machine learning algorithm based on Schelling’s Model of Segregation in Python. Presented a live walkthrough of the project to students explaining the concepts used in the project"
+        "years":"08/2020 - present",
+        "description":"Working in an environment employing the Agile scrum methodology and being deeply involved in the software development life cycle. Gauge and analyze business requirements and prepare solutions pertaining to the design and documentation of the application. Designing and developing microservice business components and RESTful web services using Spring Boot. Extensively using the core Spring MVC framework for dependency injections of components. Implementing controllers and models to render JSON response to front end application. Creating Hibernate mappings and debug issues related to data integrity. Collaborate with other developers to deploy and maintain the application using continuous integration and continuous deployment (CI/CD). Developed a proficiency in Java EE and Java API (e.g., Collection). Identify user interactions to develop a responsive UI using React.js
+"
       },
       
       
