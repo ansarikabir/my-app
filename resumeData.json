@@ -46,7 +46,7 @@
        {
         "company":"JKA Software Solutions",
         "title":"Junior Software Developer",
-        "years":"08/2020 - present",
+        "years":"03/2020 - present",
         "description":"Working in an environment employing the Agile scrum methodology and being deeply involved in the software development life cycle. Gauge and analyze business requirements and prepare solutions pertaining to the design and documentation of the application. Designing and developing microservice business components and RESTful web services using Spring Boot. Extensively using the core Spring MVC framework for dependency injections of components. Implementing controllers and models to render JSON response to front end application. Creating Hibernate mappings and debug issues related to data integrity. Collaborate with other developers to deploy and maintain the application using continuous integration and continuous deployment (CI/CD). Developed a proficiency in Java EE and Java API (e.g., Collection). Identify user interactions to develop a responsive UI using React.js"
       },
       
@@ -75,13 +75,13 @@
       {
         "company":"University of Windsor",
         "title":"Teaching Assistant",
-        "years":"05/2020 - 08/2020",
+        "years":"01/2020 - 03/2020",
         "description":"Helped students conceptualize various data structures by explaining it to them thoroughly and assisted them in implementing the data structures in a programming language of their choice. Also responsible for assigning students weekly coding challenges pertaining to the data structure that was covered during the time."
       },
       {
         "company":"University of Windsor",
         "title":"Teaching Assistant",
-        "years":"09/2019 - 04/2020",
+        "years":"09/2019 - 12/2020",
         "description":"Gave students constructive feedback on how to improve design aspects of their website and assisted them in implementing their website by helping them with HTML, CSS, SQL, and JavaScript."
       }
     ],
